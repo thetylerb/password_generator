@@ -1,0 +1,22 @@
+  
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(190, 50, 172);
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+}
+
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
+
+.previous_passwords{
+    margin-bottom: 20px;
+}
