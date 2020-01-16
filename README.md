@@ -9,3 +9,5 @@ password generator homework
 
 
 I found a few different videos that helped me piece this together. Some had sliders to determine the length of the password using bootstrap stylings but I didn't really like it yet. I'm going to start compiling a few small projects like these so I can actually use a few bits of code that we do along the way. Seems like an easy enough password generator, and it'd be pretty cool to use your own "program". 
+
+Not sure why the links to the images aren't working but the password generator should work fully!
